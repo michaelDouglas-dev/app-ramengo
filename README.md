@@ -8,6 +8,8 @@ This project is an API for managing ramen orders, including listing available br
 
 The project structure is organized as follows:
 
+<pre>
+
 project-root/
 ├── config/ 
 │ ├── database.php 
@@ -31,7 +33,8 @@ project-root/
 ├── .gitignore
 ├── composer.json
 ├── index.php
-└── README.md
+└── README.md    
+</pre>
 
 ## Configuration
 
