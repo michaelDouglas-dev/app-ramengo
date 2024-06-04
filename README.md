@@ -9,13 +9,13 @@ This project is an API for managing ramen orders, including listing available br
 The project structure is organized as follows:
 
 project-root/
-├── config/
-│ ├── database.php
-│ ├── api_auth.php
-│ └── headers.php
-│ └── config.php
-├── logs/
-│ └── api.log
+├── config/ 
+│ ├── database.php 
+│ ├── api_auth.php 
+│ └── headers.php 
+│ └── config.php 
+├── logs/ 
+│ └── api.log 
 ├── src/
 │ ├── Broths/
 │ │ └── listBroths.php
@@ -32,9 +32,6 @@ project-root/
 ├── composer.json
 ├── index.php
 └── README.md
-
-markdown
-Copiar código
 
 ## Configuration
 
